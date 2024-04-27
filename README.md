@@ -43,7 +43,7 @@ SLACK_BOT_TOKEN=
 SLACK_APP_TOKEN=
 SLACK_CLIENT_ID=
 SLACK_CLIENT_SECRET=
-SLACK_REDIRECT_URI=https://asp-moving-rationally.ngrok-free.app/api/auth/callback/slack
+SLACK_REDIRECT_URI=https://localhost:3000/api/auth/callback/slack
 NEXT_PUBLIC_SLACK_REDIRECT=https://slack.com/oauth/v2/authorize?client_id={id}&scope=chat:write,channels:read,groups:read,mpim:read,im:read&user_scope=chat:write,channels:read,groups:read,mpim:read,im:read&redirect_uri=https://asp-moving-rationally.ngrok-free.app/api/auth/callback/slack
 
 GOOGLE_CLIENT_ID=
