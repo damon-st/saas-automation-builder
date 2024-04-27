@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+[This project is based this video tutorial from Web Prodigies](https://www.youtube.com/watch?v=XkOXNlHJP6M)
+
 # First setup .env
 
 ```bash
